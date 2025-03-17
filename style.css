@@ -36,7 +36,8 @@ width: 310px;
     margin-bottom: 300px;
     border-radius: 10px;
     padding: 10px;
-    opacity: 0.6;
+    margin-top:40px;
+/*     opacity: 0.6; */
 }
 #main:hover{
     box-shadow:10px 0px 10px 5px black;
