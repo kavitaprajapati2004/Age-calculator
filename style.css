@@ -33,10 +33,10 @@ width: 310px;
     width:400px ;
     text-align: center;
     margin: auto;
-    margin-bottom: 300px;
+    margin-bottom: 250px;
     border-radius: 10px;
     padding: 10px;
-    margin-top:40px;
+/*     margin-top:40px; */
 /*     opacity: 0.6; */
 }
 #main:hover{
